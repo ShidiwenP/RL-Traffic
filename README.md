@@ -5,14 +5,14 @@ Azizul Hakim | Skidmore College | Advisor: Prof. Wenlu Du
 Algorithms used:
 PPO
 DQN
-Q-Learning
-Fixed Time (not an algorithm but base case)
+Q-Learning,
+compared to baseline Fixed Time
 
-Demands used:
+Demand Levels:
 Light (only cars going straight through intersection)
 Ideal (cars, buses, pedestrians, turns in intersection)
 Heavy (traffic jam)
 
 Only one traffic light (id: 41896158) has been controlled using the simulation
 
-So far *DQN* is the best model according to avg. queue length and cumulative reward
+So far *PPO* is the best model according to avg. queue length and cumulative reward
