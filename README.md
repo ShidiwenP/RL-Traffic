@@ -111,5 +111,5 @@ Experiments show:
 - Visualizations highlight improvements in traffic flow with adaptive control across varying demand levels.
 
 ![Average Queue Length Comparison](./img/comparison_training_queue_length.png)
-![Queue Length Comparison on Varying Demand Levels](./img/queue_length_demand.pn)
+![Queue Length Comparison on Varying Demand Levels](./img/queue_length_demand.png)
 
